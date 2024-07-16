@@ -1,0 +1,19 @@
+/*Debido fixed-top para el header, agrego m{as padding a la card*/
+.card-position-top{
+   padding-top: 23em;
+}
+
+/*estilos de la card con la info de la s cabañas...*/
+.cabañas-container{
+   padding-top: 3em;
+   width: 100%;
+}
+
+.parrafo-descripcion{
+   text-align: justify;
+}
+   
+.imgCabin{
+   width: 25em;
+   height: 20em;
+}

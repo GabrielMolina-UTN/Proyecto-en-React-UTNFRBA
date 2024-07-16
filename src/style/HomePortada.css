@@ -1,0 +1,75 @@
+h2{
+    font-family: 'Outfit';
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.imagen{
+    width: 45%;
+    height: 45%;
+}
+.portada-container{
+    width: 0 auto;
+    gap: 2rem;
+}
+p{
+    color: rgb(123, 123, 123);
+}
+.texto{
+    text-align: justify;
+    line-height: 3em;
+}
+.btn-ver{
+    background-color:  rgb(237, 176, 20);
+}
+.verCabañas{
+    text-decoration: none;
+    color: black;
+
+}
+/*Generando una grilla de 3 filas y dos columnas para que se reparta mejor el contenido*/
+.grid-container{
+    margin-top: 3em;
+    margin-bottom: 3em;
+    width: 80%;
+    height: 400px;
+    margin-left: 6em;
+ 
+}
+.grid{
+    
+    display: grid;
+    grid-template-columns: [x0] 2fr[x1] 1fr[x2] 1fr[x3];
+    grid-template-rows: [y0] 1fr [y1] 1fr[y2]; 
+    column-gap: 1em;
+}
+.image1{
+    width: 100%;
+    height: 95%;
+    grid-column: x0 / x1;
+    grid-row: y0 / y2;
+    object-fit: cover;
+}
+.image{
+    width: 100%;
+    height: 90%;
+    object-fit: cover;
+}
+
+/*Estilos de la dsecripcion del lugar*/
+.descripcion-container{
+    margin-top: 22em;
+    width: 100%;
+    height: 0 auto;
+    gap: 2em;
+   
+}
+.descripcion-container p{
+    text-align: justify; 
+    padding-top: 1rem;
+}
+
+.descripcion-container img{
+    margin-top: 2em;
+    width: 40em;
+    height: 25em;
+}

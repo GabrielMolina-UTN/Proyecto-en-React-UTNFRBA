@@ -1,0 +1,9 @@
+/*Debido fixed-top para el header, agrego m{as padding a la card*/
+    
+.card-position-top{
+padding-top: 22em;
+
+ }
+
+
+ /*Estilos para el componente ReservaEstandar*/
