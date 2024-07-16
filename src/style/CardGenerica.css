@@ -1,0 +1,51 @@
+
+.card-container{
+    display: flex;
+    flex-direction: column;
+    height: 0 auto;    
+}
+
+.detalle-container{
+    text-align: justify;
+}
+
+
+.cabin{
+    color: black;
+    font-weight: 500;
+    text-decoration: none;
+    padding: 0.5rem;
+}
+
+.btn-cabin{
+    width: 15em;
+}
+/*Estilos del carrousel*/
+.carrusel-container{
+    width: 100%;
+    height: 100%;
+    
+}
+.carrusel-height{
+    height: 25em;
+}
+
+
+
+/*Estilos del navbar de la reserva*/
+.navbar-reservar{
+    margin-top: 2em;
+}
+
+
+/*estilos carrusel*/
+.carousel-inner {
+    height: 100%; /* para la altura del contenedor del carrusel */
+  }
+  
+  .carousel-item img {
+    object-fit: cover; /*  rellena el contenedor */
+    width: 100%;
+    height: 100%;
+  }
+  

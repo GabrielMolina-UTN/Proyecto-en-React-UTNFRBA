@@ -1,0 +1,39 @@
+.title-footer{
+    padding-top: 1rem;
+    font-weight: bold;
+}
+footer{
+    
+    height: 15em;
+    background-color: black;
+    margin-top: 12em;
+    padding-top:2em
+}
+
+.position{
+    position: absolute;
+}
+
+.principal-container{
+    position: relative;
+    top: 0.15em; 
+    left: 26em;
+}
+.row-container{
+   
+    width: 75%;
+    height: 80%;
+}
+
+.row-social{
+    height: 30%;
+}
+.addres-container{
+    padding: 1rem 1rem 1rem 0;
+    background-color:rgb(237, 176, 20); ;
+}
+.social{
+    width: 1.5rem;
+    height: 1.5rem;
+    margin: 0.5rem;
+}
