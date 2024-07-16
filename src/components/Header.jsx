@@ -13,7 +13,7 @@ export const Header =() => {
                 <div className='row justify-content-center text-center pt-2'>
                         <div className='col-lg-12 d-flex'>
                             <div className='logo-titulo'>
-                                <img className='px-2 my-2' src={Logo} alt="Laguna Azul" /><h1 className=' py-4 my-3 '>Puerto Escondido</h1>
+                                <img className='px-3 my-3' src={Logo} alt="Laguna Azul" /><h1 className=' py-4 my-3 '>Puerto Esmeralda</h1>
                             </div>                                
                           
                         </div>

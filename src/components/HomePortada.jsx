@@ -21,7 +21,7 @@ export const HomePortada = () => {
     <>
        
 
-        <div className='d-flex  justify-content-center mt-5 mb-5 portada-container'>
+        <div className='d-flex  justify-content-center mt-5 mb-5 pt-4 portada-container'>
                 <div className='pt-5'>
                     <p>APART HOTEL & CABAÑAS PUERTO ESCONDIDO</p>
                     <h2>UN LUGAR ESPECIAL</h2>
