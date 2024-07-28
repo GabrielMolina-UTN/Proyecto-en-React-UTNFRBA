@@ -1,7 +1,6 @@
 
 import "../style/BtnVerCabin.css";
 
-
 export const BtnVerCabin = () => {
   return (
     <>

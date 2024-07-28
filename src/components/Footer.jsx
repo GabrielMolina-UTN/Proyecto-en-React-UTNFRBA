@@ -28,14 +28,8 @@ export const Footer = (  ) => {
                                <ImFacebook2 className="social"/> <GrInstagram className="social"/> <GrYoutube className="social"/>
                             </div>
                       </div>
-                      
-
-
-                         
-
-
                        
-                  </footer>
+           </footer>
              
     </>
   )

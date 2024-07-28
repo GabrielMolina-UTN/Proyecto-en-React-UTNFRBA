@@ -1,16 +1,11 @@
 import React from 'react'
-
 import { NavLink } from 'react-router-dom'
-
 import "../style/CardGenerica.css"
 import "../style/BtnVerCabin.css";
-
 import Mini1 from "../assets/mini1.webp";
 import Mini2 from "../assets/mini2.webp";
 import Mini3 from "../assets/mini3.webp";
 import Mini4 from "../assets/mini4.webp";
-
-
 
 export const MiniHouse = () => {
   return (

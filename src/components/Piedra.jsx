@@ -1,9 +1,7 @@
 
 import { NavLink } from 'react-router-dom'
-
 import "../style/CardGenerica.css"
 import "../style/BtnVerCabin.css";
-
 import Piedra1 from "../assets/piedra1.webp";
 import Piedra2 from "../assets/piedra2.webp";
 import Piedra3 from "../assets/piedra3.webp";

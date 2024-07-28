@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import { BiLoaderCircle } from "react-icons/bi";
 import { DetalleCabin } from "../components/DetalleCabin";
 
-
 export const Cabañas = () => {
     /*Generando las peticiones y recibiendo la respuesta desde el servicio externo:
       Se genero un archivo JSON en un repositorio de github, luego se cargo el archivo en la plataforma de la API falsa

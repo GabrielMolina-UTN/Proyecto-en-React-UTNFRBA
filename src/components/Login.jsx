@@ -48,12 +48,10 @@ export const Login = () => {
                                 </div>
                                 <button type="submit" className="btn btn-form">Iniciar</button>
                             </form>
-                           
-                            
                         </div>
                     </section>
                 </div>
-            </div>
+         </div>
     </>
   )
 }

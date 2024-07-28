@@ -10,8 +10,6 @@ import Cabana3 from "../assets/cabana3.webp";
 import Cabana4 from "../assets/cabana4.webp";
 
 
-
-
 export const CardGenerica = () => {
   return (
     <>
